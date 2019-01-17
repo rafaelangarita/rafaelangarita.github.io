@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Rafael Angarita</title>
+    <link>https://rafaelangarita.github.io/talk/</link>
+    <description>Recent content in Talks on Rafael Angarita</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Rafael ANgarita</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rafaelangarita.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Olympiades de l&#39;Open Innovation Isep</title>
+      <link>https://rafaelangarita.github.io/talk/18innovationchallengeisep/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/talk/18innovationchallengeisep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expert@Exploring Blockchain Technology and Environmental Sustainability</title>
+      <link>https://rafaelangarita.github.io/talk/18blockchaindialogunep/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/talk/18blockchaindialogunep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coach@Startup Weekend Civic Tech Paris</title>
+      <link>https://rafaelangarita.github.io/talk/18civictechweekend/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/talk/18civictechweekend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Civic Engagement@InOut</title>
+      <link>https://rafaelangarita.github.io/talk/18inout/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/talk/18inout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>USNB: Enabling Universal Online Social Interactions (Best Paper Award)</title>
+      <link>https://rafaelangarita.github.io/talk/17cic/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/talk/17cic/</guid>
+      <description>Online social network services (OSNSs) have become an integral part of our daily lives. At the same time, the aggressive market competition has led to the emergence of multiple competing siloed OSNSs that cannot interoperate. As a consequence, people face the burden of creating and managing multiple OSNS accounts and learning how to use them to stay connected. This paper is concerned with relieving users from such a burden by enabling universal online social interactions.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Rafael Angarita</title>
+    <link>https://rafaelangarita.github.io/home/</link>
+    <description>Recent content in Homes on Rafael Angarita</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Rafael ANgarita</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rafaelangarita.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://rafaelangarita.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/home/about/</guid>
+      <description>Biography I am an Associate Professor at Isep since September 2017, where I am a member of the RDI (Research and Development in Information technology) team and the head of the Information Systems track. I am also an Associate Researcher at Inria, MiMove team, where I was a postdoctoral researcher before joining Isep. I obtained a Ph.D. in Computer Science from the University Paris-Dauphine in December 2015 and a Master’s Degree in Computer Science from the Simon Bolivar University.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://rafaelangarita.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Last 10 Publications</title>
+      <link>https://rafaelangarita.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>https://rafaelangarita.github.io/home/service/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/home/service/</guid>
+      <description>Track Chair
+ Software Systems, Models and Architectures at the 7th IEEE International Conference on Future Internet of Things and Cloud (FiCloud 2019), Istanbul, Turkey. August 2019.  Program Committee
+ The 4th International Conference on Internet of Things, Big Data and Security (IoTBDS 2019), March 2019. The 4th IEEE International Conference on Collaboration and Internet Computing (IEEE CIC 2018), Philadelphia, USA, October 2018. The 3rd IEEE International Conference on Pattern Analysis and Intelligent Systems (IEEE PAIS&amp;rsquo;2018).</description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://rafaelangarita.github.io/home/supervision/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/home/supervision/</guid>
+      <description>Along with the permanent members of MiMove@Inria and Lisite@Isep, and all my scientific collaborators, I work or have worked with:
+PhD students
+ Grigorios Piperagkas, Inria Paris. September 2018 -  Postdoctoral Researchers
+ Ehsan Ahvar, Inria Paris. Postdoc. July - Shohreh Ahvar, Inria Paris. Postdoc. July - December 2018.  Research Interns
+ Alexandre Dejous, Isep. Internship: Blockchain for product registration in collaboration with the UN Environment. September - December 2018.</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://rafaelangarita.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://rafaelangarita.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/home/teaching/</guid>
+      <description>Before joining Isep, I taught several Computer Science courses at undergraduate and graduate levels at Simon Bolivar University, Paris-Dauphine University and Nanterre University.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://rafaelangarita.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
