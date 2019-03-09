@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thar Baker on Rafael Angarita</title>
+    <link>https://rafaelangarita.github.io/authors/thar-baker/</link>
+    <description>Recent content in Thar Baker on Rafael Angarita</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Rafael Angarita</copyright>
+    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rafaelangarita.github.io/authors/thar-baker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Agentify the Internet-of-Things?</title>
+      <link>https://rafaelangarita.github.io/publication/18_rcis/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/publication/18_rcis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

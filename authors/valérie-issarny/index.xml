@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valérie Issarny on Rafael Angarita</title>
+    <link>https://rafaelangarita.github.io/authors/val%C3%A9rie-issarny/</link>
+    <description>Recent content in Valérie Issarny on Rafael Angarita</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Rafael Angarita</copyright>
+    <lastBuildDate>Tue, 17 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rafaelangarita.github.io/authors/val%C3%A9rie-issarny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>USNB: Enabling Universal Online Social Interactions (Best Paper Award)</title>
+      <link>https://rafaelangarita.github.io/publication/17_cic/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/publication/17_cic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging the service bus paradigm for computer-mediated social communication interoperability</title>
+      <link>https://rafaelangarita.github.io/publication/17_icse/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/publication/17_icse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
