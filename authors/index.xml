@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Rafael Angarita</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rafaelangarita.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alexandre Dejous</title>
+      <link>https://rafaelangarita.github.io/authors/alexandre-dejous/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/authors/alexandre-dejous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bruno Lefèvre</title>
+      <link>https://rafaelangarita.github.io/authors/bruno-lef%C3%A8vre/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/authors/bruno-lef%C3%A8vre/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cristhian Parra</title>
@@ -26,6 +45,15 @@
       <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://rafaelangarita.github.io/authors/derdour-makhlouf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ehsan Ehvar</title>
+      <link>https://rafaelangarita.github.io/authors/ehsan-ehvar/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/authors/ehsan-ehvar/</guid>
       <description></description>
     </item>
     
@@ -104,7 +132,7 @@
     <item>
       <title>Nikolaos Georgantas</title>
       <link>https://rafaelangarita.github.io/authors/nikolaos-georgantas/</link>
-      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://rafaelangarita.github.io/authors/nikolaos-georgantas/</guid>
       <description></description>
@@ -116,6 +144,15 @@
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://rafaelangarita.github.io/authors/noura-faci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrick Blake</title>
+      <link>https://rafaelangarita.github.io/authors/patrick-blake/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/authors/patrick-blake/</guid>
       <description></description>
     </item>
     
@@ -140,9 +177,18 @@
     <item>
       <title>Rafael Angarita</title>
       <link>https://rafaelangarita.github.io/authors/rafael-angarita/</link>
-      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://rafaelangarita.github.io/authors/rafael-angarita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shohreh Ahvar</title>
+      <link>https://rafaelangarita.github.io/authors/shohreh-ahvar/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/authors/shohreh-ahvar/</guid>
       <description></description>
     </item>
     
@@ -158,7 +204,7 @@
     <item>
       <title>Valérie Issarny</title>
       <link>https://rafaelangarita.github.io/authors/val%C3%A9rie-issarny/</link>
-      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://rafaelangarita.github.io/authors/val%C3%A9rie-issarny/</guid>
       <description></description>

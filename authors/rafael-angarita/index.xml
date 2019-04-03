@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Rafael Angarita</copyright>
-    <lastBuildDate>Thu, 14 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rafaelangarita.github.io/authors/rafael-angarita/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Social Middleware for Civic Engagement</title>
+      <link>https://rafaelangarita.github.io/publication/19_icdcs/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/publication/19_icdcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal Social Network Bus: Towards the Federation of Heterogeneous Online Social Network Services </title>
+      <link>https://rafaelangarita.github.io/publication/19_cryblock/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/publication/19_cryblock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From centralized to decentralized blockchain-based product registration systems: the use case of lighting and appliances</title>
+      <link>https://rafaelangarita.github.io/publication/19_toit/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/publication/19_toit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Self-adaptive Agent-based System for Cloud Platforms</title>
