@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick Blake on Rafael Angarita</title>
+    <link>https://rafaelangarita.github.io/authors/patrick-blake/</link>
+    <description>Recent content in Patrick Blake on Rafael Angarita</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Rafael Angarita</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rafaelangarita.github.io/authors/patrick-blake/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>From centralized to decentralized blockchain-based product registration systems: the use case of lighting and appliances</title>
+      <link>https://rafaelangarita.github.io/publication/19_toit/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/publication/19_toit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

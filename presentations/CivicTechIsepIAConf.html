@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="keywords" content="remark,remarkjs,markdown,slideshow,presentation" />
+    <meta name="description" content="A simple, in-browser, markdown-driven slideshow tool." />
+    <title>Civic Tech</title>
+    <!--uncomment for offline usage-->
+    <!--<style type="text/css">
+        @import url("common/fonts.css");
+        @import url("common/style.css");
+      </style>-->
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif);
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+     
+      
+
+      body {
+        font-family: 'Droid Serif';
+      }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: 400;
+        margin-bottom: 0;
+      }
+      .remark-slide-content h1 { font-size: 3em; }
+      .remark-slide-content h2 { font-size: 2em; }
+      .remark-slide-content h3 { font-size: 1.6em; }
+      .footnote {
+        position: absolute;
+        bottom: 3em;
+      }
+      li p { line-height: 1.25em; }
+      .red { color: #fa0000; }
+      .small { font-size: 0.75em; }
+      .large { font-size: 2em; }
+      a, a > code {
+        color: rgb(249, 38, 114);
+        text-decoration: none;
+      }
+      code {
+        background: #e7e8e2;
+        border-radius: 5px;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      .remark-code-line-highlighted     { background-color: #373832; }
+      .pull-left {
+        float: left;
+        width: 47%;
+      }
+      .pull-right {
+        float: right;
+        width: 47%;
+      }
+      .pull-right ~ p {
+        clear: both;
+      }
+      #slideshow .slide .content code {
+        font-size: 0.8em;
+      }
+      #slideshow .slide .content pre code {
+        font-size: 0.9em;
+        padding: 15px;
+      }
+      .inverse {
+        background: #272822;
+        color: #777872;
+        text-shadow: 0 0 20px #333;
+      }
+      .inverse h1, .inverse h2 {
+        color: #f3f3f3;
+        line-height: 0.8em;
+      }
+
+      /* Slide-specific styling */
+      #slide-inverse .footnote {
+        bottom: 12px;
+        left: 20px;
+      }
+      #slide-how .slides {
+        font-size: 0.9em;
+        position: absolute;
+        top:  151px;
+        right: 140px;
+      }
+      #slide-how .slides h3 {
+        margin-top: 0.2em;
+      }
+      #slide-how .slides .first, #slide-how .slides .second {
+        padding: 1px 20px;
+        height: 90px;
+        width: 120px;
+        -moz-box-shadow: 0 0 10px #777;
+        -webkit-box-shadow: 0 0 10px #777;
+        box-shadow: 0 0 10px #777;
+      }
+      #slide-how .slides .first {
+        background: #fff;
+        position: absolute;
+        top: 20%;
+        left: 20%;
+        z-index: 1;
+      }
+      #slide-how .slides .second {
+        position: relative;
+        background: #fff;
+        z-index: 0;
+      }
+
+      /* Two-column layout */
+      .left-column {
+        color: #777;
+        width: 20%;
+        height: 92%;
+        float: left;
+      }
+        .left-column h2:last-of-type, .left-column h3:last-child {
+          color: #000;
+        }
+      .right-column {
+        width: 75%;
+        float: right;
+        padding-top: 1em;
+      }
+      img {
+            max-width:100%;
+            height:auto;
+        }
+      .logo {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+      }
+
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+name: inverse
+layout: true
+class: center, middle
+---
+.logo[![isep](images/logo_isep.svg)]
+#Civic Tech
+##Une participation citoyenne à l'ère du numérique
+<br/>
+##Rafael Angarita
+rafael.angarita@isep.fr </br>
+Enseignant-chercheur en Informatique </br>
+Lisite - Isep </br>
+Membre de l'équipe MiMove Inria </br></br></br>
+*Cycle de Conférences de l'Isep sur l'IA*</br>
+13 juin 2019
+
+---
+layout: false
+# Agenda
+
+
+## 1. Civic Tech
+### -  Définition
+### - Fonctionnalités
+### - Exemples
+## 2. Et Maintenant ?
+### - AI, Big Data, IoT et Civic Tech
+
+
+---
+class: center, middle, inverse
+template: inverse
+## Civic Tech
+
+---
+name: how
+
+
+  ## Civic Tech : Définition
+
+
+ 
+.pull-left["... l’usage de la technologie dans le but de renforcer le lien démocratique entre les citoyens et le gouvernement."
+</br></br>
+.small[Source : « The future of civic technology », sur The Brookings Institution.]
+]
+.pull-right[.center[![UGA](images/civictech.png)]]
+
+
+--
+
+</br>
+### Quels acteurs ?
+
+des associations, collectifs, ONG, gouvernements, personnes ...
+
+
+
+
+---
+
+  ## Civic Tech : Fonctionnalités
+
+
+  .img[.center[![LEGO Mindstorms](images/fonctionalites.png)]]
+
+
+---
+
+## Civic Tech : WeEuropeans
+
+
+.img[.center[![LEGO Mindstorms](images/metro.png)]]
+
+
+---
+
+
+name: how
+
+
+  ## Civic Tech : WeEuropeans
+
+L'initiative WeEuropeans lancée par Make.org et Civico Europa :
+
+--
+
+- Consultation civique entre le 4 février et le 15 mars 2019.
+
+--
+
+- ### ***À grande échelle.***
+
+--
+
+- Les européens ont pu proposer leurs solutions pour réinventer concrètement l’Europe et voter sur celles des autres. 
+
+--
+
+- Les propositions plébicitées dans chaque pays ont été traduites et soumises au vote de l’ensemble des Européens.
+
+
+???
+Entre le 4 février et le 15 mars, WeEuropeans a mené la plus grande consultation civique jamais organisée en Europe. Les citoyennes et citoyens européens ont pu proposer leurs solutions pour réinventer concrètement l’Europe et voter sur celles des autres. Les propositions plébicitées dans chaque pays ont été traduites et soumises au vote de l’ensemble des Européens. Voici les 10 propositions les plus approuvées en Europe, qui constituent aujourd’hui l’Agenda Citoyen sur lequel les partis politiques de tous les pays et les organisations de la société civile sont appelés à se prononcer en vue des prochaines élections européennes.
+
+Une initiative citoyenne
+
+Le but de WeEuropeans, une initiative civique et non-partisane lancée par Make.org et Civico Europa, est de mobiliser les citoyens autour du projet européen.
+
+En février et en mars, le mouvement affirme avoir eu des propositions de plus de deux millions d’Européens sur la question « Comment réinventer l’Europe concrètement ? ».
+
+Les résultats de cette consultation citoyenne ont été transmis ensuite aux partis politiques européens, à 200 partis politiques nationaux et à 350 ONG.
+
+- The European citizens' agenda resulting from the consultation will be presented at The Congress of Europeans at the European Parliament,
+- CIVICO will monitor the evolution of the citizens' proposals continuously, until they are included in the candidates' programmes or in the Union's projects after the new European Parliament and the new European Commission are established.
+
+---
+
+## Civic Tech : WeEuropeans
+
+.img[.center[![Proposition](images/weEuropeansProposition.png)]]
+
+--
+
+.img[.center[![Proposition](images/weEuropeansDetails.png)]]
+
+---
+
+## Civic Tech : AppCivist
+
+
+AppCivist est une plate-forme libre et gratuite pour soutenir des actions collectives et démocratiques.
+</br></br>
+C'est un travail *** pluridisciplinaire *** !  
+</br></br>
+.img-70[.center[![AppCivist](images/appcivist.png)]]
+</br></br>
+Pour en savoir plus, consultez [AppCivist.org](https://appcivist.org)
+
+
+
+
+---
+class: center, middle, inverse
+template: inverse
+
+##  Et Maintenant ?
+
+---
+class: center, middle, inverse
+template: inverse
+
+## La Civic Tech et les technologies de rupture
+### AI, Big Data, IoT et Civic Tech : quelques perspectives et questions ouvertes
+---
+
+## La Civic Tech et les technologies de rupture
+
+<!--### - Société civile et protection des droits de l'homme
+### - Prise de décision inclusive
+### - Institutions responsables
+### - Combattre la discrimination-->
+
+.img[.center[![LEGO Mindstorms](images/gameboard.png)]]
+</br>
+</br>
+.footnote[.small[*Source : DareDisrupt. Civic tech: Smart Use of Civic Tech to Promote Accountability and Transparency. 2019.*]]
+
+
+<!-- Société civile et protection des droits de l'homme -->
+
+---
+## Société civile et protection des droits de l'homme
+
+Perspectives :
+
+* Défense des droits de l'homme basée sur les données
+
+* Identification des violations et risques « invisibles » concernant les 
+droits de l'homme 
+
+* Augmentation de la surveillance
+
+* Augmentation de la protection
+
+--
+
+Questions :
+* Prédiction de violence avec une précision de X% ? Quels avantages et inconvénients ? 
+
+* La valeur de l'utilisation des médias sociaux et des services Internet vaut-elle vos données personnelles ?
+
+.footnote[.small[*Basé sur le rapport DareDisrupt. Civic tech: Smart Use of Civic Tech to Promote Accountability and Transparency. 2019.*]]
+
+???
+
+<!-- Prise de décision inclusive -->
+
+---
+## Prise de décision inclusive
+
+Perspectives :
+
+* Faire entendre les voix des communautés
+
+* Distribution inégale des donées
+
+--
+
+Questions :
+* Un assistant IA personnel qui gèrerait votre vie et vous recommanderait
+quoi acheter, pour qui voter, etc. ? Quels avantages et inconvénients ? 
+
+* Utilisation des données pour calculer et connaître les préférences des gens sans
+leur participation active et donc inclure leurs besoins dans la prise de décision ? 
+
+.footnote[.small[*Basé sur le rapport DareDisrupt. Civic tech: Smart Use of Civic Tech to Promote Accountability and Transparency. 2019.*]]
+
+
+???
+
+---
+<!-- Institutions responsables -->
+## Institutions responsables
+
+Perspectives :
+
+* Le paradoxe de la sécurité des données et qui
+possède des données
+
+* Confidentialité et sécurité des données dans différents
+contextes
+
+* IA-politiciens
+
+* Collecte de données pour surveiller la mise en œuvre des décisions
+
+* Conseils juridiques ou trouver des failles juridiques
+
+* Tenir les gouvernements responsables avec
+données probantes solides
+
+--
+
+Questions :
+* Quel décideur: personne élue ou IA basée sur des données complètes ?
+
+
+* Quelles décisions vous ou votre organisation prenez régulièrement pourraient être automatisées ? Quels risques / opportunités? 
+
+
+.footnote[.small[*Basé sur le rapport DareDisrupt. Civic tech: Smart Use of Civic Tech to Promote Accountability and Transparency. 2019.*]]
+
+
+???
+
+Conseils juridiques ou trouver des failles juridiques :  app DoNotPay, which has
+successfully contested 160,000 parking tickets across London and New York with a success rate of 64%
+
+---
+
+<!-- Combattre la discrimination -->
+## Combattre la discrimination
+
+Perspectives :
+
+* Reproduction de préjugés raciaux
+
+* Filtres et polarisation croissante
+
+* La vie privée menacée
+
+* Une compréhension plus profonde de la discrimination et des préjugés
+
+--
+
+Questions :
+* Et si la plupart des décisions politiques étaient basées sur des données et des modèles de simulation de données ? 
+
+* Le nudging sophistiqué affectant le comportement et les opinions des personnes en adaptant les informations et les réponses en ligne ?
+
+.footnote[.small[*Basé sur le rapport DareDisrupt. Civic tech: Smart Use of Civic Tech to Promote Accountability and Transparency. 2019.*]]
+
+
+???
+
+Comment pensez-vous la décision changerait? Quels biais seraient les plus reproduits?
+
+L’intelligence artificielle peut être utilisée pour les coups de pouce sophistiqués, affectant le comportement et les opinions des personnes 
+en adaptant les informations et les réponses en ligne. Que voudriez-vous inciter les gens à se comporter ou à penser différemment? Pourrait-il être utilisé pour
+lutter contre les normes discriminantes? Pensez-vous que ce serait éthique?
+
+La théorie du Nudge (ou théorie du paternalisme libéral) est un concept des sciences du comportement, de la théorie politique et d'économie issu des pratiques 
+de design industriel, qui fait valoir que des suggestions indirectes peuvent, sans forcer, influencer les motivations, les incitations 
+et la prise de décision des groupes et des individus, au moins de manière aussi efficace sinon plus efficacement que l'instruction directe, la législation ou l'exécution. 
+
+
+---
+class: center, middle, inverse
+template: inverse
+##Enfin ...
+--
+
+## Que peut-il arriver et quel type de Civic Tech voulons-nous construire ?
+
+<!-- take a hard look at the ethics of how we use IA for civic tech-->
+--
+
+## Nous == tout le monde (pas seulement les entreprises de technologie/chercheurs)
+---
+name: last-page
+class: center, middle, inverse
+template: inverse
+
+## Merci de votre attention
+  
+  
+
+rafael.angarita@isep.fr
+
+<!--Slideshow created using [remark](http://github.com/gnab/remark).-->
+    </textarea>
+    <script src="../remark/remark-latest.min.js"></script>
+    <script>
+      var hljs = remark.highlighter.engine;
+    </script>
+    <script src="../remark/remark.language.js"></script>
+    <script>
+      var slideshow = remark.create({
+          highlightStyle: 'monokai',
+          highlightLanguage: 'remark',
+          highlightLines: true
+        }) ;
+    </script>
+    <script>
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-44561333-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script');
+        ga.src = 'https://ssl.google-analytics.com/ga.js';
+        var s = document.scripts[0];
+        s.parentNode.insertBefore(ga, s);
+      }());
+    </script>
+  </body>
+</html>

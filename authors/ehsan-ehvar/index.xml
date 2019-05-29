@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ehsan Ehvar on Rafael Angarita</title>
+    <link>https://rafaelangarita.github.io/authors/ehsan-ehvar/</link>
+    <description>Recent content in Ehsan Ehvar on Rafael Angarita</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Rafael Angarita</copyright>
+    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rafaelangarita.github.io/authors/ehsan-ehvar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Universal Social Network Bus: Towards the Federation of Heterogeneous Online Social Network Services </title>
+      <link>https://rafaelangarita.github.io/publication/19_cryblock/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/publication/19_cryblock/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
