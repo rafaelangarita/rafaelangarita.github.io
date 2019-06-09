@@ -58,6 +58,14 @@
       .pull-right ~ p {
         clear: both;
       }
+      .scale45 {
+        float: right;
+        width: 47%;
+      }
+    
+      .scale45 ~ p {
+        clear: both;
+      }
       #slideshow .slide .content code {
         font-size: 0.8em;
       }
@@ -129,11 +137,21 @@
             max-width:100%;
             height:auto;
         }
+        img50 {
+      
+          width:15px;
+   height:10px;
+        
+        }
       .logo {
         position: absolute;
         top: 10px;
         right: 10px;
       }
+      .caption {
+        display: block;
+      }
+
 
     </style>
   </head>
@@ -151,9 +169,31 @@ class: center, middle
 rafael.angarita@isep.fr </br>
 Enseignant-chercheur en Informatique </br>
 Lisite - Isep </br>
-Membre de l'équipe MiMove Inria </br></br></br>
+Membre de l'équipe MiMove Inria</br>
+[rafaelangarita.github.io](https://rafaelangarita.github.io) </br></br></br>
 *Cycle de Conférences de l'Isep sur l'IA*</br>
 13 juin 2019
+
+
+---
+layout: false
+# Qui suis-je ?
+
+
+.img[.center[![Dauphine](images/dauphine.png) .caption[Docteur en Informatique]]]
+</br>
+
+--
+
+.img[.center[![Isep](images/logo_isep.svg)  .caption[Enseignant-Chercheur  en Informatique]]]
+</br>
+
+--
+
+.img[.center[![Inria](images/inria.png) .caption[Chercheur affilié]]]
+
+
+
 
 ---
 layout: false
@@ -234,11 +274,15 @@ L'initiative WeEuropeans lancée par Make.org et Civico Europa :
 
 --
 
-- Les européens ont pu proposer leurs solutions pour réinventer concrètement l’Europe et voter sur celles des autres. 
+- Proposition de solutions pour réinventer l’Europe.
 
 --
 
-- Les propositions plébicitées dans chaque pays ont été traduites et soumises au vote de l’ensemble des Européens.
+- Votation.
+
+--
+
+- Les propositions plébicitées traduites et soumises au vote de l’ensemble des Européens.
 
 
 ???
@@ -292,7 +336,7 @@ class: center, middle, inverse
 template: inverse
 
 ## La Civic Tech et les technologies de rupture
-### AI, Big Data, IoT et Civic Tech : quelques perspectives et questions ouvertes
+<!--### AI, Big Data, IoT et Civic Tech : quelques perspectives et questions ouvertes-->
 ---
 
 ## La Civic Tech et les technologies de rupture
@@ -320,7 +364,7 @@ Perspectives :
 * Identification des violations et risques « invisibles » concernant les 
 droits de l'homme 
 
-* Augmentation de la surveillance
+* *Augmentation de la surveillance*
 
 * Augmentation de la protection
 
@@ -344,16 +388,16 @@ Perspectives :
 
 * Faire entendre les voix des communautés
 
-* Distribution inégale des donées
+* *Distribution inégale des donées*
 
 --
 
 Questions :
-* Un assistant IA personnel qui gèrerait votre vie et vous recommanderait
-quoi acheter, pour qui voter, etc. ? Quels avantages et inconvénients ? 
+* Assistant IA personnel qui vous recommanderait
+quoi acheter ... mais pour qui voter ? Quels avantages et inconvénients ? 
 
-* Utilisation des données pour calculer et connaître les préférences des gens sans
-leur participation active et donc inclure leurs besoins dans la prise de décision ? 
+* Calculer et connaître les préférences des gens sans
+leur participation active pour inclure leurs besoins dans la prise de décision ? 
 
 .footnote[.small[*Basé sur le rapport DareDisrupt. Civic tech: Smart Use of Civic Tech to Promote Accountability and Transparency. 2019.*]]
 
@@ -366,37 +410,35 @@ leur participation active et donc inclure leurs besoins dans la prise de décisi
 
 Perspectives :
 
-* Le paradoxe de la sécurité des données et qui
-possède des données
+* *Le paradoxe de la sécurité des données et qui
+possède des données*
 
-* Confidentialité et sécurité des données dans différents
-contextes
-
-* IA-politiciens
+* *Confidentialité et sécurité des données dans différents
+contextes*
 
 * Collecte de données pour surveiller la mise en œuvre des décisions
 
 * Conseils juridiques ou trouver des failles juridiques
 
-* Tenir les gouvernements responsables avec
+* Tenir les gouvernements responsables avec des
 données probantes solides
 
 --
 
 Questions :
-* Quel décideur: personne élue ou IA basée sur des données complètes ?
-
-
-* Quelles décisions vous ou votre organisation prenez régulièrement pourraient être automatisées ? Quels risques / opportunités? 
+* Quel décideur: personne élue ou IA basée sur des données ?
 
 
 .footnote[.small[*Basé sur le rapport DareDisrupt. Civic tech: Smart Use of Civic Tech to Promote Accountability and Transparency. 2019.*]]
 
 
 ???
+<!--
+* Quelles décisions vous ou votre organisation prenez régulièrement pourraient être automatisées ? Quels risques / opportunités? 
+-->
 
-Conseils juridiques ou trouver des failles juridiques :  app DoNotPay, which has
-successfully contested 160,000 parking tickets across London and New York with a success rate of 64%
+Conseils juridiques ou trouver des failles juridiques :  app DoNotPay,permet aux automobilistes de faire appel de leurs
+
 
 ---
 
@@ -405,11 +447,9 @@ successfully contested 160,000 parking tickets across London and New York with a
 
 Perspectives :
 
-* Reproduction de préjugés raciaux
+* *Reproduction de préjugés raciaux*
 
-* Filtres et polarisation croissante
-
-* La vie privée menacée
+* *Filtres et polarisation croissante*
 
 * Une compréhension plus profonde de la discrimination et des préjugés
 
@@ -447,7 +487,13 @@ template: inverse
 <!-- take a hard look at the ethics of how we use IA for civic tech-->
 --
 
-## Nous == tout le monde (pas seulement les entreprises de technologie/chercheurs)
+## Nous == tout le monde 
+
+---
+
+.img[.center[![LEGO Mindstorms](images/softwarePerspective.png)]]
+
+
 ---
 name: last-page
 class: center, middle, inverse
@@ -457,7 +503,8 @@ template: inverse
   
   
 
-rafael.angarita@isep.fr
+rafael.angarita@isep.fr</br>
+[rafaelangarita.github.io](https://rafaelangarita.github.io)
 
 <!--Slideshow created using [remark](http://github.com/gnab/remark).-->
     </textarea>
