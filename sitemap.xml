@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
@@ -11,9 +12,88 @@
     
     <url>
     
-      <loc>https://rafaelangarita.github.io/</loc>
-      <lastmod>2019-06-24T17:13:48+02:00</lastmod>
-      <priority>0</priority>
+      <loc>https://rafaelangarita.github.io/publication/19_icdcs/</loc>
+      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/publication/19_cryblock/</loc>
+      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/publication/19_toit/</loc>
+      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/publication/18_selfadapt/</loc>
+      <lastmod>2019-04-03T15:02:10+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/publication/18_rcis/</loc>
+      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/publication/18_blackmirror/</loc>
+      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/publication/17_cic/</loc>
+      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/publication/17_icse/</loc>
+      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/project/external-project/</loc>
+      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/project/internal-project/</loc>
+      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/author/admin/</loc>
+      <lastmod>2019-03-28T14:57:26+01:00</lastmod>
     </url>
     
   
@@ -31,6 +111,23 @@
     
       <loc>https://rafaelangarita.github.io/publication_types/2/</loc>
       <lastmod>2019-04-03T15:02:44+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/authors/alexandre-dejous/</loc>
+      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/author/</loc>
       <priority>0</priority>
     </url>
     
@@ -56,8 +153,7 @@
     
     <url>
     
-      <loc>https://rafaelangarita.github.io/authors/ehsan-ehvar/</loc>
-      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
+      <loc>https://rafaelangarita.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -65,8 +161,8 @@
     
     <url>
     
-      <loc>https://rafaelangarita.github.io/authors/nikolaos-georgantas/</loc>
-      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
+      <loc>https://rafaelangarita.github.io/authors/cristhian-parra/</loc>
+      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -74,8 +170,8 @@
     
     <url>
     
-      <loc>https://rafaelangarita.github.io/publication_types/</loc>
-      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
+      <loc>https://rafaelangarita.github.io/tags/deep-learning/</loc>
+      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -83,77 +179,9 @@
     
     <url>
     
-      <loc>https://rafaelangarita.github.io/authors/rafael-angarita/</loc>
-      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
+      <loc>https://rafaelangarita.github.io/tags/demo/</loc>
+      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/authors/shohreh-ahvar/</loc>
-      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/publication/19_icdcs/</loc>
-      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/publication/19_cryblock/</loc>
-      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/authors/val%C3%A9rie-issarny/</loc>
-      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/authors/alexandre-dejous/</loc>
-      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/publication/19_toit/</loc>
-      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/authors/patrick-blake/</loc>
-      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/publication/18_selfadapt/</loc>
-      <lastmod>2019-04-03T15:02:10+02:00</lastmod>
     </url>
     
   
@@ -169,8 +197,53 @@
     
     <url>
     
+      <loc>https://rafaelangarita.github.io/authors/ehsan-ehvar/</loc>
+      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/authors/emir-ugljanin/</loc>
+      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/authors/ilaria-renna/</loc>
+      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/authors/james-holston/</loc>
+      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://rafaelangarita.github.io/authors/kazar-okba/</loc>
       <lastmod>2019-04-03T15:02:10+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/authors/khouloud-boukadi/</loc>
+      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -196,52 +269,17 @@
     
     <url>
     
-      <loc>https://rafaelangarita.github.io/authors/philippe-rosse/</loc>
-      <lastmod>2019-04-03T15:02:10+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/authors/yudith-cardinale/</loc>
-      <lastmod>2019-04-03T15:02:10+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/authors/emir-ugljanin/</loc>
-      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/publication/18_rcis/</loc>
-      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/authors/khouloud-boukadi/</loc>
-      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://rafaelangarita.github.io/authors/mohamed-sellami/</loc>
       <lastmod>2019-03-09T12:00:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/authors/nikolaos-georgantas/</loc>
+      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -258,35 +296,9 @@
     
     <url>
     
-      <loc>https://rafaelangarita.github.io/authors/thar-baker/</loc>
-      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
+      <loc>https://rafaelangarita.github.io/authors/patrick-blake/</loc>
+      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/authors/zakaria-maamar/</loc>
-      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/authors/ilaria-renna/</loc>
-      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/publication/18_blackmirror/</loc>
-      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
     </url>
     
   
@@ -302,68 +314,9 @@
     
     <url>
     
-      <loc>https://rafaelangarita.github.io/publication/17_cic/</loc>
-      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/authors/cristhian-parra/</loc>
-      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
+      <loc>https://rafaelangarita.github.io/authors/philippe-rosse/</loc>
+      <lastmod>2019-04-03T15:02:10+02:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/authors/james-holston/</loc>
-      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/publication/17_icse/</loc>
-      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/tags/deep-learning/</loc>
-      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/tags/demo/</loc>
-      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/project/external-project/</loc>
-      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/project/internal-project/</loc>
-      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
     </url>
     
   
@@ -379,32 +332,8 @@
     
     <url>
     
-      <loc>https://rafaelangarita.github.io/tags/</loc>
-      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/author/admin/</loc>
-      <lastmod>2019-03-28T14:57:26+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/author/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/categories/</loc>
+      <loc>https://rafaelangarita.github.io/publication_types/</loc>
+      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -420,8 +349,35 @@
     
     <url>
     
+      <loc>https://rafaelangarita.github.io/</loc>
+      <lastmod>2019-06-24T17:13:48+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/authors/rafael-angarita/</loc>
+      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://rafaelangarita.github.io/talk/</loc>
       <lastmod>2019-03-09T12:00:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/authors/shohreh-ahvar/</loc>
+      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -439,6 +395,51 @@
     
       <loc>https://rafaelangarita.github.io/slides/example-slides/</loc>
       <lastmod>2019-03-09T12:00:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/tags/</loc>
+      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/authors/thar-baker/</loc>
+      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/authors/val%C3%A9rie-issarny/</loc>
+      <lastmod>2019-04-03T15:02:44+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/authors/yudith-cardinale/</loc>
+      <lastmod>2019-04-03T15:02:10+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/authors/zakaria-maamar/</loc>
+      <lastmod>2019-03-09T12:00:07+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
