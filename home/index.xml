@@ -78,7 +78,8 @@ Star</description>
       <guid>https://rafaelangarita.github.io/home/team/</guid>
       <description>Along with the permanent members of MiMove@Inria and Lisite@Isep, and all my scientific collaborators, I work or have worked with:
 PhD students
- Shufan Jiang, Isep Paris and University of Reims. October 2019 - William Aboucaya, Inria Paris. October 2019 - Grigorios Piperagkas, Inria Paris. October 2018 -  Postdoctoral Researchers
+ Shufan Jiang, Isep Paris and University of Reims. October 2019 - William Aboucaya, Inria Paris. October 2019 -
+- Grigorios Piperagkas, Inria Paris. October 2018 -  Postdoctoral Researchers
  Ehsan Ahvar, Inria Paris. Postdoc. July 2017 - June 2018. Shohreh Ahvar, Inria Paris. Postdoc. July 2017 - December 2018.</description>
     </item>
     
@@ -124,7 +125,7 @@ PhD students
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://rafaelangarita.github.io/home/teaching/</guid>
-      <description>Before joining Isep, I taught several Computer Science courses at undergraduate and graduate levels since 2004 at Simon Bolivar University, Andres Bello Catholic University, Paris-Dauphine University and Nanterre University, and participated in a MOOC about citizen participation and Civic Tech. I also teach a joint course with the Catholic University of Paris and participated in the French national programme to train high-school teachers to teach Computer Science.</description>
+      <description>Before joining Isep, I taught several Computer Science courses at undergraduate and graduate levels since 2004 at Simon Bolivar University, Andres Bello Catholic University, Paris-Dauphine University - PSL and Nanterre University, and participated in a MOOC about citizen participation and Civic Tech. I also teach a joint course with the Catholic University of Paris and participated in the French national programme to train high-school teachers to teach Computer Science and Information Technologies.</description>
     </item>
     
     <item>
@@ -143,15 +144,6 @@ PhD students
       
       <guid>https://rafaelangarita.github.io/home/contact/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Contact Me</title>
-      <link>https://rafaelangarita.github.io/home/fullteaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rafaelangarita.github.io/home/fullteaching/</guid>
-      <description>Test</description>
     </item>
     
   </channel>
