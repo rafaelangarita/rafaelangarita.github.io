@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Rafael Angarita</copyright>
-    <lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rafaelangarita.github.io/authors/raja-chiky/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Informationality In Twitter Textual Contents For Farmer-centric Pest Monitoring</title>
+      <link>https://rafaelangarita.github.io/publication/22_egc/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/publication/22_egc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Vers la Reconstruction des Connaissances Agricoles : Perspectives de Détection des Risques Naturels à partir de Sources de Données Hétérogènes</title>
@@ -22,7 +31,7 @@
     </item>
     
     <item>
-      <title>Towards the integration of agricultural data from heterogeneous sources: perspectives for theFrench agricultural context using semantic technologies</title>
+      <title>Towards the integration of agricultural data from heterogeneous sources: perspectives for the French agricultural context using semantic technologies</title>
       <link>https://rafaelangarita.github.io/publication/20_isesl_agro/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       

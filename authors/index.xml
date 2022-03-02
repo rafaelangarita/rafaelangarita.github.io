@@ -7,33 +7,69 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Rafael Angarita</copyright>
-    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rafaelangarita.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Francis Rousseaux</title>
-      <link>https://rafaelangarita.github.io/authors/francis-rousseaux/</link>
-      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://rafaelangarita.github.io/authors/francis-rousseaux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Rafael Angarita</title>
       <link>https://rafaelangarita.github.io/authors/rafael-angarita/</link>
-      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://rafaelangarita.github.io/authors/rafael-angarita/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Valérie Issarny</title>
+      <link>https://rafaelangarita.github.io/authors/val%C3%A9rie-issarny/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/authors/val%C3%A9rie-issarny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William Aboucaya</title>
+      <link>https://rafaelangarita.github.io/authors/william-aboucaya/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/authors/william-aboucaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francis Rousseaux</title>
+      <link>https://rafaelangarita.github.io/authors/francis-rousseaux/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/authors/francis-rousseaux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julian Oresanz</title>
+      <link>https://rafaelangarita.github.io/authors/julian-oresanz/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/authors/julian-oresanz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raja Chiky</title>
+      <link>https://rafaelangarita.github.io/authors/raja-chiky/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/authors/raja-chiky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Shufan Jiang</title>
       <link>https://rafaelangarita.github.io/authors/shufan-jiang/</link>
-      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://rafaelangarita.github.io/authors/shufan-jiang/</guid>
       <description></description>
@@ -42,18 +78,9 @@
     <item>
       <title>Stéphane Cormier</title>
       <link>https://rafaelangarita.github.io/authors/st%C3%A9phane-cormier/</link>
-      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://rafaelangarita.github.io/authors/st%C3%A9phane-cormier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raja Chiky</title>
-      <link>https://rafaelangarita.github.io/authors/raja-chiky/</link>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://rafaelangarita.github.io/authors/raja-chiky/</guid>
       <description></description>
     </item>
     
@@ -63,15 +90,6 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rafaelangarita.github.io/authors/grigorios-piperagkas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Valérie Issarny</title>
-      <link>https://rafaelangarita.github.io/authors/val%C3%A9rie-issarny/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://rafaelangarita.github.io/authors/val%C3%A9rie-issarny/</guid>
       <description></description>
     </item>
     
