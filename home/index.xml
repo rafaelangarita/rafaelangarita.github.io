@@ -69,17 +69,21 @@ Star</description>
     </item>
     
     <item>
+      <title>Research Projects</title>
+      <link>https://rafaelangarita.github.io/home/funding/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelangarita.github.io/home/funding/</guid>
+      <description>Argumentative Graph-RAG for Participatory Democracy, LIP6 AI &amp;amp; Data Science programme, with Nicolas Maudet (Multi-Agent Systems team). 2025 – in progress. Intelligent services for data catalogs, CIFRE industrial PhD partnership with Zeenea (data catalog vendor). 2023 – in progress. Table Discovery in Data Lakes, LIP6 internal project. 2023–2024. Led to HEARTS, a hypergraph-based related table search method. EIT Digital CivicBudget and Inria Technology Development Action CivicBudget, participatory budgeting platforms, with CITRIS@UC Berkeley (USA), Missions Publiques (France, coordinator), Nexus and TU Berlin (Germany).</description>
+    </item>
+    
+    <item>
       <title>Service</title>
       <link>https://rafaelangarita.github.io/home/service/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://rafaelangarita.github.io/home/service/</guid>
-      <description>Scientific Commitée
- ACI Avances en Ciencias e Ingenierías, since 2021   Distinguished Reviewer
- ACM Transactions on Autonomous and Adaptive Systems (ACM TAAS), since 2021  Review Board for Books
- Sustainable, Innovative and Intelligent Societies and Cities, EAI/Springer Innovations in Communication and Computing, 2022  Board of Distinguished Reviewer
- ACM Transactions on Autonomous and Adaptive Systems (ACM TAAS), since 2021  Organization
- École Thématique Micro and Big 2013, Nanterre, France.</description>
+      <description>Programme committees: The Web Conference (WWW) 2026, Semantics and Knowledge track · ESWC 2025–2026, research track · KDExLLM @ ICDE 2026 · ETECOM 2025–2026 · earlier: ARTIIS, WI, EPIA, IEEE WETICE, IoTBDS, IEEE CIC, FiCloud, FASE. Track chair: Software Systems track, IEEE FiCloud 2019–2022. Session chair: IEEE CIC 2017 · Inria@SiliconValley Workshop BIS 2016 · IoT and Big Data 2016. Reviewing: IEEE Transactions on Software Engineering, IEEE Transactions on Services Computing, IEEE Software, ACM TAAS (Distinguished Reviewer, since 2021), Knowledge and Information Systems, Journal of Systems and Software, IEEE Access, Pattern Recognition Letters, Concurrency and Computation, Journal of Software: Evolution and Process, IET Software, PLOS ONE.</description>
     </item>
     
     <item>
@@ -89,7 +93,7 @@ Star</description>
       
       <guid>https://rafaelangarita.github.io/home/team/</guid>
       <description>PhD students
- Malek Srouji, LIP6, Sorbonne University and Lebanese University. December 2026 - in progress. Suzanne Bassil, LIP6, Sorbonne University and American University of the Middle East. 2026 - in progress. Allaa Boutaleb, LIP6, Sorbonne University. October 2024 - in progress. Anis Aknouche, LIP6, Sorbonne University. December 2023 - in progress. Souha Katat, Isep Paris and Lebanese University. January 2022 - July 2025. Hussein Baalbaki, Isep Paris and Lebanese University.</description>
+ Malek Srouji, LIP6, Sorbonne University and Lebanese University. December 2026 – in progress. Suzanne Bassil, LIP6, Sorbonne University and American University of the Middle East. 2026 – in progress. Allaa Boutaleb, Representation of tables in data lakes. LIP6, Sorbonne University. October 2024 – in progress. Best Paper Award, TRL Workshop @ ACL 2025. Anis Aknouche, Intelligent services for data catalogs (CIFRE with Zeenea). LIP6, Sorbonne University. December 2023 – in progress.</description>
     </item>
     
     <item>
@@ -134,7 +138,8 @@ Star</description>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://rafaelangarita.github.io/home/teaching/</guid>
-      <description>I taught several Computer Science courses at undergraduate and graduate levels since 2004 at Simon Bolivar University, Andres Bello Catholic University, Paris Dauphine University - PSL, Paris Nanterre University, Isep, and I participated in a MOOC about citizen participation and Civic Tech. I also taught a joint course between the Isep and the Catholic University of Paris, a Big Data course at CNAM and participated in the French national programme to train high-school teachers to teach Computer Science and Information Technologies (NSI).</description>
+      <description>At Paris Nanterre University, since 2022
+ Complete database curriculum from undergraduate to Master&amp;rsquo;s level: relational databases, business intelligence, Big Data, NoSQL and data lakes. New Master&amp;rsquo;s course: Data and Knowledge Engineering for Large Language Models (RAG and KG-RAG architectures, hybrid SQL/embedding search, knowledge graph modelling, data quality and provenance), opening 2026. Year coordinator, L3 MIAGE and dual-degree programmes, since 2023. Vice-President, Consultative Disciplinary Committee, since 2025. Guest lecturer at Télécom Paris and 3iL.</description>
     </item>
     
     <item>
