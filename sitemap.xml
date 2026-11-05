@@ -3,23 +3,6 @@
     
     <url>
     
-      <loc>https://rafaelangarita.github.io/talk/example/</loc>
-      <lastmod>2021-01-27T13:24:20+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/</loc>
-      <lastmod>2026-11-05T09:41:22+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://rafaelangarita.github.io/publication_types/1/</loc>
       <lastmod>2022-03-02T16:23:18+01:00</lastmod>
       <priority>0</priority>
@@ -57,6 +40,15 @@
     
       <loc>https://rafaelangarita.github.io/authors/rafael-angarita/</loc>
       <lastmod>2022-03-02T16:23:18+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rafaelangarita.github.io/</loc>
+      <lastmod>2026-11-05T09:43:30+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -447,58 +439,6 @@
     
     <url>
     
-      <loc>https://rafaelangarita.github.io/tags/deep-learning/</loc>
-      <lastmod>2021-01-27T13:24:20+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/tags/demo/</loc>
-      <lastmod>2021-01-27T13:24:20+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/project/external-project/</loc>
-      <lastmod>2021-01-27T13:24:20+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/project/internal-project/</loc>
-      <lastmod>2021-01-27T13:24:20+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/project/</loc>
-      <lastmod>2021-01-27T13:24:20+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/tags/</loc>
-      <lastmod>2021-01-27T13:24:20+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://rafaelangarita.github.io/author/admin/</loc>
       <lastmod>2026-11-05T09:41:22+01:00</lastmod>
     </url>
@@ -539,17 +479,8 @@
     
     <url>
     
-      <loc>https://rafaelangarita.github.io/slides/</loc>
-      <lastmod>2021-01-27T13:24:20+01:00</lastmod>
+      <loc>https://rafaelangarita.github.io/tags/</loc>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rafaelangarita.github.io/slides/example-slides/</loc>
-      <lastmod>2021-01-27T13:24:20+01:00</lastmod>
     </url>
     
   
